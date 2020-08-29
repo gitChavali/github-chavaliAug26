@@ -2,7 +2,7 @@
 
 layout: slide
 
-title: "Welcome to our second slide!I am doing before commit"
+title: "Welcome to our second slide!I am doing before the commit"
 
 ---
 
